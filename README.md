@@ -22,3 +22,4 @@ O layout foi inspirado em plataformas modernas de compartilhamento de viagens, c
 ---
 
 ## 📸 Captura de Tela
+![Preview do Projeto](./img/preview.png)
