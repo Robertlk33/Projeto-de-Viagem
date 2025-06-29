@@ -30,5 +30,5 @@ O layout foi inspirado em plataformas modernas de compartilhamento de viagens, c
 **Robert Ribeiro**  
 Desenvolvedor Front-end em formação | Projeto com apoio da comunidade **DevClub**, com orientação do meu grande mentor **Rodolfo Mori** e o apoio do amigo **Alexsandro Oliveira**. 🚀
 
-[LinkedIn](www.linkedin.com/in/robert-ribeiro-0b7a1b2b5) | [GitHub](https://github.com/seu-usuario)
+[LinkedIn](www.linkedin.com/in/robert-ribeiro-0b7a1b2b5) | [GitHub]([https://github.com/seu-usuario](https://github.com/Robertlk33/Projeto-de-Viagem.git))
 
